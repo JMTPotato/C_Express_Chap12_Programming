@@ -10,5 +10,4 @@ int main()
 	printf("%s %s %s\n", str1, str2, str3);
 
 	return 0;
-	//
 }
